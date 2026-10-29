@@ -26,7 +26,7 @@ It helps analyse performance, track KPIs and turn raw data into clear visual ins
 
 ---
 
-## 🏠 Home View
+## 🏠 Home View(https://github.com/Darshilshah0203/Business-Insights-360/blob/main/Home%20View.png)
 
 The Home View is the gateway to the dashboard. It gives direct navigation to every major section from one central hub:
 
@@ -39,7 +39,7 @@ The Home View is the gateway to the dashboard. It gives direct navigation to eve
 
 ---
 
-## 💰 Finance View
+## 💰 Finance View(https://github.com/Darshilshah0203/Business-Insights-360/blob/main/Finance%20View.png)
 
 Presents Profit & Loss (P&L) statements and financial KPIs.
 
@@ -53,7 +53,7 @@ Presents Profit & Loss (P&L) statements and financial KPIs.
 
 ---
 
-## 📈 Sales View
+## 📈 Sales View(https://github.com/Darshilshah0203/Business-Insights-360/blob/main/Sales%20View.png)
 
 Provides deep insights into customer and product sales performance.
 
@@ -67,7 +67,7 @@ Provides deep insights into customer and product sales performance.
 
 ---
 
-## 📊 Marketing View
+## 📊 Marketing View(https://github.com/Darshilshah0203/Business-Insights-360/blob/main/Marketing%20View.png)
 
 Focuses on segment and product category analysis.
 
@@ -81,7 +81,7 @@ Focuses on segment and product category analysis.
 
 ---
 
-## 🚚 Supply Chain View
+## 🚚 Supply Chain View(https://github.com/Darshilshah0203/Business-Insights-360/blob/main/Supply%20Chain%20View.png)
 
 Focuses on operational performance and demand forecasting.
 
@@ -94,7 +94,7 @@ Focuses on operational performance and demand forecasting.
 
 ---
 
-## 🔎 Executive View
+## 🔎 Executive View(https://github.com/Darshilshah0203/Business-Insights-360/blob/main/Executive%20View.png)
 
 A high-level summary of business performance.
 
@@ -107,7 +107,7 @@ A high-level summary of business performance.
 
 ---
 
-## 🤝 Support View
+## 🤝 Support View(https://github.com/Darshilshah0203/Business-Insights-360/blob/main/Support%20View.png)
 
 Helps users stay connected and resolve issues quickly.
 
@@ -121,7 +121,7 @@ Helps users stay connected and resolve issues quickly.
 
 ---
 
-## ℹ️ Information View
+## ℹ️ Information View(https://github.com/Darshilshah0203/Business-Insights-360/blob/main/Information%20View.png)
 
 Provides guidance and system instructions for using the dashboard.
 
