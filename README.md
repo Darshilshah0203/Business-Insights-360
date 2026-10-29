@@ -11,7 +11,6 @@ It helps analyse performance, track KPIs and turn raw data into clear visual ins
 - **Data extended to FY2026:** loaded FY2023 to FY2026 data, bringing the model to roughly **3 million rows**.
 - **Incremental refresh:** configured so only new and recent data is refreshed instead of reloading the full dataset every time.
 - **Row-Level Security (RLS):** role-based access so users only see the data they are allowed to see.
-- **Time Intelligence View:** a new view comparing YTD, YTG (year to go) and last year YTD, with change and change %, for Gross Sales, Net Invoice Sales, Net Sales, Gross Margin and Net Profit.
 
 ## 📑 Table of Contents
 
